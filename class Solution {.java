@@ -1,5 +1,5 @@
 class Solution {
-    public int maxDepth(TreeNode root) {
+    public int maxDepth(TreeNoe root) {
        
         if(root == null) return 0;
        
